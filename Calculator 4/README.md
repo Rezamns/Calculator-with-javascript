@@ -1,2 +1,2 @@
 # Calculator with javascript
-![Screenshot](https://github.com/Rezamns/Calculator-with-javascript/assets/57560653/337ade8c-a31d-43cb-b283-62d89e65cffa)
+![Screenshot](https://github.com/Rezamns/Calculator-with-javascript/assets/57560653/bac747b3-efbf-4f06-a7b2-6e7014258757)
